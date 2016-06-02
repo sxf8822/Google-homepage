@@ -1,0 +1,76 @@
+.topbar {
+	padding-top: 15px;
+	padding-right: 15px;
+	text-align: center;
+
+}
+
+.topnav {
+	float: right;
+	padding: 5px;
+}
+
+.topnav button {
+	color: white;
+	background-color: #2E8AE6;
+	border: none;
+	height:35px;
+	width: 75px;
+	margin-top:-30px;
+}
+.box {
+	height: 50%;
+	width: 50%;
+	margin-top:-30px;
+	margin-left: -40px;
+	margin-right: -40px;
+}
+.middle {
+	text-align:center;
+	padding-top:150px;
+}
+
+img {
+	padding-top:25px;
+	padding-bottom: 15px;
+}
+
+form {
+	width: 10;
+	margin: 5px 10px;
+}
+.middle form input {
+	width: 600px;
+	height: 20px;
+	border: 1px solid #e0e0e0;
+}
+.middle form button {
+	border: 1px solid #e0e0e0;
+	margin: 20px 20px;
+	height: 25px;
+	width: 125px;
+	border: 1px solid #e0e0e0;
+}
+
+footer {
+	float: inline;
+	position: fixed;
+	bottom: 0px;
+	background-color: #f2f2f2;
+	width: 100%;
+	height: 35px;
+	text-align: center;
+}
+
+
+.left {
+	float: left;
+	margin: 10px 15px;
+	
+}
+
+.right {
+	float: right;
+	margin: 10px 15px;
+	
+}
